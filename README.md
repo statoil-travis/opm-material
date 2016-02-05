@@ -1,4 +1,4 @@
-The Open Porous Media Material Framework
+The Open Porous Media Material Framework ![alt text](https://travis-ci.org/OPM/opm-material.svg?branch=master "TravisCI Build Status")
 ========================================
 
 CONTENT
